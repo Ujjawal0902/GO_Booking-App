@@ -1,2 +1,2 @@
 # GO_Booking-App
-The ticket booking app created with the help of GO.
+I developed this ticket booking application using GO.
